@@ -1,6 +1,7 @@
 public class Prova2 {
 	
-	//ModificaciÛ 1
+	//Modificaci√≥ 1
+	//Modificaci√≥ 2
 	
 public static void main(String[] args) {
 	    
@@ -49,7 +50,7 @@ public static void main(String[] args) {
 			max = contador;
 		}
 		if(max == 1){
-			return resultat + " tenen " + max + " repeticiÛ.";
+			return resultat + " tenen " + max + " repetici√≥.";
 		}
 		else{
 			return resultat + " tenen " + max + " repeticions.";
