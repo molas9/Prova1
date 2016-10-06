@@ -1,6 +1,6 @@
 public class Prova2 {
 	
-	//Modificació 1
+	//Modificació 2312313131
 	//Modificació 2
 	
 public static void main(String[] args) {
